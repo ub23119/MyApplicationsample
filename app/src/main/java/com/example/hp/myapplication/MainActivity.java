@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     private void myVount1(){
 
         int i  = 10 + 2 ;
-        int z;
+
     }
 }
