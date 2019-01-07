@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
         int i  = 10 + 2 ;
         int z;
     }
+    private void myVount1(){
+
+        int i  = 10 + 2 ;
+        int z;
+    }
 }
